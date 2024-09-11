@@ -49,5 +49,11 @@
 	<string>Esta aplicación requiere acceso a la cámara para analizar el color de las plantas.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Esta aplicación requiere acceso al micrófono para grabar videos de las plantas.</string>
+
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Esta aplicación necesita acceso a la galería de fotos para guardar las imágenes capturadas y sus análisis de color.</string>
+
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>Esta aplicación necesita permiso para guardar fotos en tu galería.</string>
 </dict>
 </plist>
